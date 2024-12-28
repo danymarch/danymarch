@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a discord bot<br>👯 I’m looking to collaborate on nothing<br>🤝 I’m looking for help with nothing<br>🌱 I’m currently learning<br>💬 Ask me about everything<br>⚡ Fun fact i'm batman
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its._.dani.m) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/shenu_py) 
 
@@ -10,7 +9,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=danimarch_&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=danimarch_&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danimarch_&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
